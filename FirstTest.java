@@ -1,4 +1,3 @@
-package com.qascript;
 
 import org.junit.Assert;
 import org.junit.Test;
